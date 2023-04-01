@@ -1,3 +1,4 @@
+#This project is created by Vedant Vatsa and Ankush
 import openai
 import gradio as gr
 import os
